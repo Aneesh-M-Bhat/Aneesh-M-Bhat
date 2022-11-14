@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneesh-M-Bhat&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesh-M-Bhat&langs_count=10&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aneesh-M-Bhat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Aneesh-M-Bhat/Aneesh-M-Bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
