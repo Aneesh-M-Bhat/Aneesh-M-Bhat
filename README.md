@@ -16,6 +16,6 @@
 
 <div  width="100%"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aneesh-m-bhat&show_icons=true&theme=dark&locale=en&layout=compact" alt="aneesh-m-bhat" />
 
-&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=aneesh-m-bhat&show_icons=true&theme=dark&locale=en" alt="aneesh-m-bhat" />
+<img  src="https://github-readme-stats.vercel.app/api?username=aneesh-m-bhat&show_icons=true&theme=dark&locale=en" alt="aneesh-m-bhat" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aneesh-m-bhat&theme=dark" alt="aneesh-m-bhat" /></div>
